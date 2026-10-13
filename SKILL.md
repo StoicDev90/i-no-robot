@@ -1,6 +1,8 @@
 ---
 name: i-no-robot
 description: Usar al escribir, editar o humanizar prosa (emails, posts, artículos, informes) para que suene escrita por una persona, sin clichés ni estructuras típicas de IA.
+license: MIT
+compatibility: claude-code opencode
 ---
 
 # i-no-robot
